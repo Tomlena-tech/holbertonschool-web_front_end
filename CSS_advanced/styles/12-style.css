@@ -65,8 +65,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: var(--section-header-align);
 }
 .section title {
-  margin: var(--section-title-margin);
-  color: var(--section-title-color);
   font-family: var(--font-family-title);
   font-size: var(--font-size-xx-large);
   font-weight: var(--font-weight-bold);
