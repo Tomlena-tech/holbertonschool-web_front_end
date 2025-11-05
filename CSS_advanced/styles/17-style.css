@@ -390,7 +390,7 @@ template {
     --section-footer-align: center;
 
     --section-padding: 5rem 0 3rem;
-    --footer-padding: 5rem 0 1;
+    --footer-padding: 5rem 0 1rem;
 }
 
 *, *::before, *::after {
