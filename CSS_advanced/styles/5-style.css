@@ -18,6 +18,7 @@
 
 /* HTML element */
 html {
+  scroll-behavior: smooth;
   font-size: 62.5%;
 }
 
@@ -37,6 +38,12 @@ a {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-title);
 }
+
+
+.visually-hidden {
+    display: none;
+}
+
 
 /* Section tagline declaration */
 .section-tagline {
